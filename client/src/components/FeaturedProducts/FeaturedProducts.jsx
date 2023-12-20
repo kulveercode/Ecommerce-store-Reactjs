@@ -8,7 +8,7 @@ export default function FeaturedProducts({type}) {
     const data = [
       {
         id: 1,
-        img: "https://m.media-amazon.com/images/I/81sZxHm33LL._SX569_.jpg",
+        img: "https://render.fineartamerica.com/images/rendered/search/t-shirt/23/17/images-medium-5/superman-rusted-shield-brand-a-transparent.png",
         img2: "https://m.media-amazon.com/images/I/916HM61cBHL._SX569_.jpg",
         title: "Men's Regular Fit T-Shirt",
         isNew: true,
